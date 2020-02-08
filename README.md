@@ -12,10 +12,9 @@ This is the code for how to train your model using Naive Bayes classier.
 2.  [What is Bayes Theorem?](#what-is-bayes-theorem)
 3.  [Type of Naive Bayes](#type-of-naive-bayes)
 4.  [What are the application of Naive Bayes?](#what-are-the-application-of-naive-bayes)
-5.  [How to train your model?](#how-to-train-your-model)
-6.  [Dependencies](#dependencies)
-7.  [Usage](#usage)
-8.  [Conclusion](#conclusion)
+5.  [Dependencies](#dependencies)
+6.  [Usage](#usage)
+7.  [Conclusion](#conclusion)
 
 # What is Naive Bayes?
 
@@ -74,9 +73,6 @@ respectively.
 - Face Recognition
 - Medical Areas
 - Weather forecast prediction
-
-# How to train your model?
-
 
 # Dependencies
 
