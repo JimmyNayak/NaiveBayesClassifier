@@ -89,6 +89,8 @@ respectively.
 - Open project in Pycharm IDE. If you don't have IDE then download from
   the [JetBrains PyCharm](https://www.jetbrains.com/pycharm/download/).
 - Set your python environment and install library dependencies.
+- You can download data-set from [here](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+- Source code also available on [Kaggle Notebok](https://www.kaggle.com/userjn/spam-filtering-using-naive-bayes-classifier?scriptVersionId=28350963)
 
 That's all,You're ready to fly.
 

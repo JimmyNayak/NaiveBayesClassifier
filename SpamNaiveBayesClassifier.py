@@ -18,7 +18,7 @@ span_data_frame = span_data_frame.rename(columns={"v1": "class", "v2": "message"
 print(span_data_frame.head())
 span_data_frame.info()
 
-# Ploat data to display in graphical view
+# Plot data to display in graphical view
 plt.xlabel("Labels")
 plt.title('Number of ham and spam messages')
 
